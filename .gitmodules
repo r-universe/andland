@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "logisticPCA"]
-	path = logisticPCA
-	url = https://github.com/andland/logisticpca
-	shallow = true
-	registered = true
